@@ -1,4 +1,4 @@
-# 🧠 QuizMaster — Laravel 12 Production Quiz Application
+# 🧠 QuizMaster — Laravel 12 Quiz Application
 
 A fully production-ready quiz application built with **Laravel 12**, **Tailwind CSS v4**, **Pest**, and **SQLite** (or any database).
 
